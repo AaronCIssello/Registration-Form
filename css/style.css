@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+body{
+  background-color: #ad343e;
+  font-family: 'Lato', sans-serif;
+  
+}
+
+.container{
+  text-align: center;
+  margin: auto;
+  width: 350px;
+  height: 375px;
+  background: white;
+  border: 0.5px solid #474747;
+  border-radius: 25px;
+  font-size: 12px;
+}
+
+.container button{
+  margin-top: 15px;
+}
+
+#error {
+  margin-top: 15px;
+  text-align: center;
+  font-weight: 500;
+  color: #f2af29;
+}
